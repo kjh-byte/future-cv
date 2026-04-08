@@ -33,7 +33,6 @@
 ## 💻 프로젝트 경험 (Projects)
 - **AI 기반 스마트 홈 케어 시스템 'Samsung-Link' (2028)**
     - 삼성 가전제품과 연동되어 사용자 패턴을 학습하고 전력을 제어하는 IoT 웹 서비스
-    - [Project Repository](https://github.com/kjh-byte/samsung-link)
 - **고성능 메모리 DB 엔진 프로토타입 개발 (2027)**
     - C언어를 활용하여 데이터 조회 속도를 기존 오픈소스 대비 15% 향상시킨 경량 DB 구현
 
